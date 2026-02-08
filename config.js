@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Imelda, my precious princess",
+    valentineName: "My precious Princess",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine? Pls respond within 24 hourd or bf will attack you with machine gun kisses?🌹", // The big question!
+            text: "Will you be my Valentine? Pls respond within 24 hours or bf will attack you with machine gun kisses?🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Love you mostest!! okay, you win liao 🥰💝",  // Shows when they go past 5000%
-        high: "Love you most most! 💝",              // Shows when they go past 1000%
-        normal: "I love you more🥰"                           // Shows when they go past 100%
+        extreme: "Love you mostest!! okay, you win liao ",  // Shows when they go past 5000%
+        high: "Love you most most!",              // Shows when they go past 1000%
+        normal: "I love you more"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Sayanggg 🎉💝💖💝💓",
+        title: "Yay! Sayanggg 💓",
         message: "Now come get your kiss kiss, bao bao. And be ready for arms of vines!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis:  // These will bounce around
     },
 
     // Color scheme for the website
