@@ -22,19 +22,19 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "gf like me ma?",                                    // First interaction
+            text: "Ni ai wo ma?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I don't like you, wo ai niii! ❤️"           // Secret hover message
+            secretAnswer: "Ai niii until baozha! ❤️"           // Secret hover message
         },
         second: {
-            text: "How much do you love me?",                          // For the love meter
-            startText: "This much!",                                   // Text before the percentage
+            text: "Ai wo how much dear?",                          // For the love meter
+            startText: "Super much ho!",                                   // Text before the percentage
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine? Pls respond within 24 hours or bf will attack you with machine gun kisses? 🌹", // The big question!
-            yesBtn: "Yes!",                                             // Text for "Yes" button
+            text: "Will you be my Valentine? Pls respond within 1 sec or bf will attack you with machine gun kisses? 🌹", // The big question!
+            yesBtn: "Yes! (thats more than 1 sec tho)",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "Love you mostest!! okay, you win liao 🥰🚀💝",  // Shows when they go past 5000%
-        high: "Love you most most! 🚀💝",              // Shows when they go past 1000%
+        extreme: "Love you mostest!! okay, you win liao 💝",  // Shows when they go past 5000%
+        high: "Love you most most! 💝",              // Shows when they go past 1000%
         normal: "I love you more 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Sayanggg 💓🎉💝💖💝💓",
+        title: "Yay! Sayanggg 💖💓",
         message: "Now come get your kiss kiss, bao bao. And be ready for arms of vines!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🎁💖💋❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
