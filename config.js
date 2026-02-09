@@ -51,7 +51,7 @@ const CONFIG = {
     celebration: {
         title: "Yay! Sayanggg 💓",
         message: "Now come get your kiss kiss, bao bao. And be ready for arms of vines!",
-        emojis:  // These will bounce around
+        emojis:[] // These will bounce around
     },
 
     // Color scheme for the website
