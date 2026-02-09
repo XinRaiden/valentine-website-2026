@@ -36,8 +36,7 @@ const CONFIG = {
             text: "Will you be my Valentine? Pls respond within 24 hours or bf will attack you with machine gun kisses?🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
-        }
-    },
+        },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
@@ -52,7 +51,6 @@ const CONFIG = {
     title: "Yay! Sayanggg 💓",
     message: "Now come get your kiss kiss, bao bao. And be ready for arms of vines!",
     emojis: ['💖', '💝', '💗', '💓', '🌹']
-},
     },
 
     // Color scheme for the website
@@ -83,7 +81,7 @@ const CONFIG = {
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
-    }
+    },
 };
 
 // Don't modify anything below this line unless you know what you're doing
