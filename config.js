@@ -49,9 +49,10 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Sayanggg 💓",
-        message: "Now come get your kiss kiss, bao bao. And be ready for arms of vines!",
-        emojis:[] // These will bounce around
+    title: "Yay! Sayanggg 💓",
+    message: "Now come get your kiss kiss, bao bao. And be ready for arms of vines!",
+    emojis: ['💖', '💝', '💗', '💓', '🌹']
+},
     },
 
     // Color scheme for the website
