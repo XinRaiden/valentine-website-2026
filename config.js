@@ -34,7 +34,7 @@ const CONFIG = {
         },
         third: {
             text: "Will you be my Valentine? Pls respond within 1 sec or bf will attack you with machine gun kisses? 🌹", // The big question!
-            yesBtn: "Yes! (thats more than 1 sec tho)",                                             // Text for "Yes" button
+            yesBtn: "Yes! (thats more than 1 sec tho so...)",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
     },
